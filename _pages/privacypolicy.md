@@ -8,7 +8,7 @@ include_in_header: false
 
 # Privacy Policy
 
-AssassinStudio built the King James Bible app as a Free app. This SERVICE is provided by AssassinStudio at no cost and is intended for use as is.
+Kylin Studio built the King James Bible app as a Free app. This SERVICE is provided by Kylin Studio at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
